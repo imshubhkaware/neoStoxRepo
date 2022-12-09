@@ -11,7 +11,7 @@ import neoStoxUtility.UtilityNeoStox;
 public class NeoStoxSignUp {
 
 	
-	//original code
+	//signup code
 	
 	
 	@FindBy(xpath="//input[@id='MainContent_signinsignup_txt_mobilenumber']")private WebElement mobileNo;
